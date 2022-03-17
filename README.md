@@ -21,5 +21,4 @@ Here you will find all the projects I'm currently working on and projects I have
 
 Feel free to follow me and ask me any doubt you have!
 
-Follow me on LinkedIn!
 ![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
