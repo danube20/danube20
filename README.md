@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Andrés and this is my GitHub profile!
+
+Here you will find all the projects I'm currently working on and projects I have already finished.
+
+Feel free to follow me and ask me any doubt you have!
